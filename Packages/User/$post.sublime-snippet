@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$.post('${1:uri}',postData,function(data){
+	if(data && data.status ==1){
+		//${2:code}
+	}else{
+		alert(data.info ? data.info : '系统繁忙,请稍后再试!');
+	}
+	console.log(data);
+},'json');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>post</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
