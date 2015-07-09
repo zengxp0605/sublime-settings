@@ -1,4 +1,4 @@
-# sublime-AppData
+# sublime-AppData for Sublime Text 3
 
 This is the user setting files and packages installed
 
