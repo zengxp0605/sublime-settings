@@ -8,5 +8,26 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"update_check": false,
+	"word_wrap": "false",
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"default_encoding": "UTF-8",
+	"find_selected_text": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
 	"word_wrap": "false"
 }
